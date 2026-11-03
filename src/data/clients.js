@@ -31,6 +31,13 @@ export const thumbnails = [
   },
 
   {
+    id: "t4",
+    title: "best things in khan market",
+    image: "/thumbnails/khao man gai (1).png",
+    reelUrl: "https://www.instagram.com/reel/DdtkZ2HSY6u/",
+  },
+
+  {
     id: "t5",
     title: "Not Far",
     image: "/thumbnails/not far.jpeg",
@@ -146,6 +153,45 @@ export const thumbnails = [
     image: "/thumbnails/kamala mills mumbai (1).png",
     reelUrl: "https://www.instagram.com/reel/DdB9g49yP13/",
   },
+
+  {
+    id: "t22",
+    title: "Tamari, Bandra, Mumbai",
+    image: "/thumbnails/tamari bandra (1).png",
+    reelUrl: "https://www.instagram.com/reel/Dc-4bGsMI4Q/",
+  },
+
+  {
+    id: "t23",
+    title: "Côte d’Or",
+    image: "/thumbnails/Côte d’Or (1).png",
+    reelUrl: "https://www.instagram.com/reel/Dc5dFDOMd-g/",
+  },
+
+  {
+    id: "t24",
+    title: "Pincode delhi, mumbai",
+    image: "/thumbnails/pincode delhi (1).png",
+    reelUrl: "https://www.instagram.com/reel/Dc3i0YAswrb/",
+  },
+
+  {
+    id: "t25",
+    title: "junglee kitchen, mumbai",
+    image: "/thumbnails/junglee kitchen (1).png",
+    reelUrl: "https://www.instagram.com/reel/DcyhtmZsww1/",
+  },
+
+  {
+    id: "t26",
+    title: "T’s Tiramisu, Delhi",
+    image: "/thumbnails/t's tiramisu (1).png",
+    reelUrl: "https://www.instagram.com/reel/DcvEwawMbhD/",
+  },
+
+
+  
+
 
 
   
