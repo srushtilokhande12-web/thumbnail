@@ -33,8 +33,8 @@ export const thumbnails = [
   {
     id: "t4",
     title: "best things in khan market",
-    image: "/thumbnails/khao man gai (1).png",
-    reelUrl: "https://www.instagram.com/reel/DdtkZ2HSY6u/",
+    image: "/thumbnails/khan market.png",
+    reelUrl: "https://www.instagram.com/reel/DKPEEJexgwC/",
   },
 
   {
