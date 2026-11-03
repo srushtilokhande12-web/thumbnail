@@ -112,3 +112,34 @@ h1, h3 { margin: 0; }
     font-size: 13px;
   }
 }
+
+/* Mobile layout */
+@media screen and (max-width: 600px) {
+  .page .grid {
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 10px !important;
+    width: 100%;
+  }
+
+  .page .grid .card {
+    min-width: 0;
+    width: 100%;
+  }
+
+  .thumb img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 9 / 16;
+    object-fit: cover;
+  }
+
+  .card-body {
+    padding: 8px;
+  }
+
+  .card-body h3 {
+    font-size: 12px;
+    overflow-wrap: anywhere;
+  }
+}
