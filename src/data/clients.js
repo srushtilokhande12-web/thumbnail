@@ -21,8 +21,8 @@ export const clients = [
       {
         id: "t1",
         title: "Reel 01 - Morning Routine",
-        image: "/thumbnails/thumb-1.jpg",
-        reelUrl: "https://www.instagram.com/reel/REPLACE_WITH_REEL_ID_1/",
+        image: "/thumbnails/tanjore tiffin room.png",
+        reelUrl: "https://www.instagram.com/reel/DKPEEJexgwC/?cplk=MWplbm9ham10MWp2MA==",
       },
       {
         id: "t2",
