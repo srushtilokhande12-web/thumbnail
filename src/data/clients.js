@@ -106,6 +106,13 @@ export const thumbnails = [
     reelUrl: "https://www.instagram.com/reel/DdWaxpNSjUl/",
   },
 
+  {
+    id: "t16",
+    title: "best smash burgure bangalore",
+    image: "/thumbnails/bets smash burger (1).png",
+    reelUrl: "https://www.instagram.com/reel/DdTVo58qyCc/",
+  },
+
   
 ];
 
