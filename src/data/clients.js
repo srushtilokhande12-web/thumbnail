@@ -22,4 +22,14 @@ export const thumbnails = [
     image: "/thumbnails/golla sizzelers.png",
     reelUrl: "https://www.instagram.com/reel/Dd3vWFvSnbN/",
   },
+
+  {
+    id: "t4",
+    title: "khao man gai",
+    image: "/thumbnails/khao man gai (1).png",
+    reelUrl: "https://www.instagram.com/reel/DdtkZ2HSY6u/",
+  },
 ];
+
+
+
