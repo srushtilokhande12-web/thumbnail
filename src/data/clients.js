@@ -36,6 +36,27 @@ export const thumbnails = [
     image: "/thumbnails/not far.jpeg",
     reelUrl: "https://www.instagram.com/reel/DfFN3stI5MJ/",
   },
+
+  {
+    id: "t6",
+    title: "Tanjore Tiffin Room",
+    image: "/thumbnails/tanjore tiffin room.png",
+    reelUrl: "https://www.instagram.com/reel/Ddd6zaAzbJL/",
+  },
+
+  {
+    id: "t7",
+    title: "wagamama",
+    image: "/thumbnails/wagamama (1).png",
+    reelUrl: "https://www.instagram.com/reel/DdrEYYSqJky/",
+  },
+
+  {
+    id: "t8",
+    title: "daksina bhawan",
+    image: "/thumbnails/daksina bhawan (1).png",
+    reelUrl: "https://www.instagram.com/reel/DdoiT5sqSNH/",
+  },
 ];
 
 
