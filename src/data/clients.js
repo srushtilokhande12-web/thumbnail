@@ -6,8 +6,8 @@
 export const thumbnails = [
   {
     id: "t1",
-    title: "Reel 01 - Morning Routine",
-    image: "/thumbnails/thumb-1.jpg",
+    title: "Corner House",
+    image: "/thumbnails/corner house.png",
     reelUrl: "https://www.instagram.com/reel/REPLACE_WITH_REEL_ID_1/",
   },
   {
