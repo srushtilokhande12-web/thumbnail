@@ -12,9 +12,9 @@ export const thumbnails = [
   },
   {
     id: "t2",
-    title: "Reel 02 - Travel Vlog",
-    image: "/thumbnails/thumb-2.jpg",
-    reelUrl: "https://www.instagram.com/reel/REPLACE_WITH_REEL_ID_2/",
+    title: "OCAD Delhi",
+    image: "/thumbnails/OCAD Delhi.png",
+    reelUrl: "https://www.instagram.com/reel/Dd6MpP-y8_Y/",
   },
   {
     id: "t3",
