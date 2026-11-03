@@ -57,6 +57,27 @@ export const thumbnails = [
     image: "/thumbnails/daksina bhawan (1).png",
     reelUrl: "https://www.instagram.com/reel/DdoiT5sqSNH/",
   },
+
+  {
+    id: "t9",
+    title: "cyber hub",
+    image: "/thumbnails/cyber hub.png.png",
+    reelUrl: "https://www.instagram.com/reel/DdmR0UgSEDg/",
+  },
+
+  {
+    id: "t10",
+    title: "gaijin bandra",
+    image: "/thumbnails/gaijin bandra (1).png",
+    reelUrl: "https://www.instagram.com/reel/Ddio_ZgsUr0/",
+  },
+
+  {
+    id: "t11",
+    title: "best dating places",
+    image: "/thumbnails/dating places (1).png",
+    reelUrl: "https://www.instagram.com/reel/DdgojWiqO7k/",
+  },
 ];
 
 
