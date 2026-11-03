@@ -18,8 +18,8 @@ export const thumbnails = [
   },
   {
     id: "t3",
-    title: "Reel 03 - Product Launch",
-    image: "/thumbnails/thumb-3.jpg",
-    reelUrl: "https://www.instagram.com/reel/REPLACE_WITH_REEL_ID_3/",
+    title: "golla sizzelers",
+    image: "/thumbnails/golla sizzelers.png",
+    reelUrl: "https://www.instagram.com/reel/Dd3vWFvSnbN/",
   },
 ];
