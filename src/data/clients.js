@@ -29,6 +29,13 @@ export const thumbnails = [
     image: "/thumbnails/khao man gai (1).png",
     reelUrl: "https://www.instagram.com/reel/DdtkZ2HSY6u/",
   },
+
+  {
+    id: "t5",
+    title: "Not Far",
+    image: "/thumbnails/not far.jpeg",
+    reelUrl: "https://www.instagram.com/reel/DfFN3stI5MJ/",
+  },
 ];
 
 
