@@ -61,7 +61,7 @@ export const thumbnails = [
   {
     id: "t9",
     title: "cyber hub",
-    image: "/thumbnails/cyber hub.png.png",
+    image: "/thumbnails/cyber hub.png",
     reelUrl: "https://www.instagram.com/reel/DdmR0UgSEDg/",
   },
 
@@ -112,6 +112,43 @@ export const thumbnails = [
     image: "/thumbnails/bets smash burger (1).png",
     reelUrl: "https://www.instagram.com/reel/DdTVo58qyCc/",
   },
+
+  {
+    id: "t17",
+    title: "Aer, Mumbai",
+    image: "/thumbnails/aer (1).png",
+    reelUrl: "https://www.instagram.com/reel/DdRoTc0yASE/",
+  },
+
+  {
+    id: "t18",
+    title: "Cadbury brownie",
+    image: "/thumbnails/cadbury brownie (1).png",
+    reelUrl: "https://www.instagram.com/reel/DdOKHcrsHjS/",
+  },
+
+  {
+    id: "t19",
+    title: "Even Steven, Bandra West, Mumbai",
+    image: "/thumbnails/even steven (1).png",
+    reelUrl: "https://www.instagram.com/reel/DdLvnXRKvIk/",
+  },
+
+  {
+    id: "t20",
+    title: "Nagarjuna, Bangalore",
+    image: "/thumbnails/nagarjuna (1).png",
+    reelUrl: "https://www.instagram.com/reel/DdGd1hUMr6l/",
+  },
+  {
+    id: "t21",
+    title: "best things in Kamala Mills",
+    image: "/thumbnails/kamala mills mumbai (1).png",
+    reelUrl: "https://www.instagram.com/reel/DdB9g49yP13/",
+  },
+
+
+  
 
   
 ];
