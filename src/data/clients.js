@@ -78,6 +78,35 @@ export const thumbnails = [
     image: "/thumbnails/dating places (1).png",
     reelUrl: "https://www.instagram.com/reel/DdgojWiqO7k/",
   },
+  {
+    id: "t12",
+    title: "miracle recipie",
+    image: "/thumbnails/5 min miracle recepie (1).png",
+    reelUrl: "https://www.instagram.com/reel/DdZC2deyE_0/",
+  },
+
+  {
+    id: "t13",
+    title: "nivea",
+    image: "/thumbnails/NIVEA.png",
+    reelUrl: "https://www.instagram.com/reel/Ddb1Da_TpGo/",
+  },
+
+  {
+    id: "t14",
+    title: "best things in bandra",
+    image: "/thumbnails/best things in bandra (1).png",
+    reelUrl: "https://www.instagram.com/reel/DdbZh1SypgG/",
+  },
+
+  {
+    id: "t15",
+    title: "Ghee ke tadke waali famous Mac n Cheese!",
+    image: "/thumbnails/ghee tadka mac n cheese (1).png",
+    reelUrl: "https://www.instagram.com/reel/DdWaxpNSjUl/",
+  },
+
+  
 ];
 
 
